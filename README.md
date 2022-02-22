@@ -1,2 +1,2 @@
 # GIFs
-gifs for about me of my repo(s)
+gifs for readme of my repo(s)
